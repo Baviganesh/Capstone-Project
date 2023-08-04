@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Project using IBM Cognos Analytics
 Tech Trends and Insights: Top 10 Technologies and Desired Future Skills
 
 Summary:
